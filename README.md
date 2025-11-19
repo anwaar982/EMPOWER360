@@ -1,4 +1,5 @@
 📊 EMPOWER360 HR Analysis Dashboard
+
 📝 Overview
 
 An interactive Power BI dashboard designed to analyze employee demographics, workforce status, performance metrics, and compensation patterns across EMPOWER360’s staff.
