@@ -1,17 +1,17 @@
-📊 EMPOWER360 HR Analysis Dashboard
+EMPOWER360 HR Analysis Dashboard
 
-📝 Overview
+ Overview
 
 An interactive Power BI dashboard designed to analyze employee demographics, workforce status, performance metrics, and compensation patterns across EMPOWER360’s staff.
 The project showcases HR trends such as active vs. terminated employees, departmental distribution, salaries, overtime, and training.
 
 Data Size: 200 employees (Active + Terminated)
 
-🛠️ Tools
+ Tools
 
 Power BI Desktop, Power Query, DAX, Data Modeling
 
-✨ Project Highlights
+ Project Highlights
 
 Analyzed a workforce of 200 employees across multiple departments and locations.
 
@@ -23,7 +23,7 @@ Compared performance metrics (overtime, sick days, performance ratings, training
 
 Conducted a salary deep-dive covering Gross, Net, Base Salary, and Deductions.
 
-📊 Dashboard Features
+Dashboard Features
 
 Visualizations include:
 
@@ -53,7 +53,7 @@ Sick days
 
 Salary metrics (Gross, Net, Base, Deductions) for both Active and Terminated employees
 
-🔍 Key Insights
+ Key Insights
 1. Performance Differences
 
 Terminated employees showed:
@@ -76,7 +76,7 @@ Higher financial impact of turnover
 78.5% of the workforce remains active, showing relatively stable retention
 —but department-level differences highlight areas needing attention.
 
-💡 Strategic Recommendations
+ Strategic Recommendations
 
 Analyze Termination Drivers: Higher salary and higher overtime among terminated staff may indicate burnout or dissatisfaction.
 
@@ -86,7 +86,7 @@ Monitor Workload: Link overtime and sick days to performance to prevent future a
 
 Optimize Salary & Talent Distribution: Address pay-to-performance imbalances to maintain fairness and morale.
 
-🧠 Skills Applied
+Skills Applied
 
 Power BI Data Modeling
 
